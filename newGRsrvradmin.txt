@@ -107,7 +107,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "9-13",
+          "length": "13-16",
           "interval": "1"
         }
       },
