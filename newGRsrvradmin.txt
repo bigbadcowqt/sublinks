@@ -1,5 +1,5 @@
 {
-  "remarks": "adminforcheck",
+  "remarks": "argo tunneladmin",
   "log": {
     "access": "",
     "error": "",
@@ -52,7 +52,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "188.114.96.3",
+            "address": "188.114.97.3",
             "port": 443,
             "users": [
               {
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "BlOGeDU-AlPhArO-MakEYoUQT-MecHaNics-FooTbAlL.mIgmaDmOw.sHOp",
+          "serverName": "voIp-ExPErieNcEd-TI-MEthoD.tryClOUdflArE.COm",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,7 +83,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "BlOGeDU-AlPhArO-MakEYoUQT-MecHaNics-FooTbAlL.mIgmaDmOw.sHOp"
+            "Host": "voIp-ExPErieNcEd-TI-MEthoD.tryClOUdflArE.COm"
           }
         },
         "sockopt": {
@@ -107,8 +107,8 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "42-50",
-          "interval": "1-2"
+          "length": "9-13",
+          "interval": "1"
         }
       },
       "streamSettings": {
@@ -142,27 +142,6 @@
           "api"
         ],
         "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "id": "5465425548310166497",
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
-          "domain:ir",
-          "geosite:cn"
-        ],
-        "enabled": true
-      },
-      {
-        "id": "5425034033205580637",
-        "type": "field",
-        "outboundTag": "direct",
-        "ip": [
-          "geoip:private",
-          "geoip:cn",
-          "geoip:ir"
-        ],
         "enabled": true
       },
       {
