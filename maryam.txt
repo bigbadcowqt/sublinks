@@ -52,7 +52,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBbHBoYS1tYXJ5YW0iLAogICJhZGQiOiAiMTU2LjIzNi4zMS43MSIsCiAgInBvcnQiOiAxNDg5NywKICAiaWQiOiAiY2VmY2JlMzEtYmQ3Ny00MzI0LTg4OTUtNzg5NTY0MGI1N2Q1IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIi8iCn0=",
+            "address": "188.114.97.3",
             "port": 443,
             "users": [
               {
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "VmeSS://ewOgICj2IJoGIJiilAOGIcJWCyi6IcjbbHbOys1tYXj5yw0iLAogicjhzGQIoiAimTu2LJizNi4Zms43MsiSciAGInBvCnQIoiAxNDG5NywKIcAiawqioiaIy2vMy2jlmZEtYMq3NY00mZI0LtG4OTUTnZG5NTy0mGi1n2q1IIWKiCAIBmV0IJogINDziIWKiCaidhLwZsi6icjUB25lIiWkicaIdgXziJOgIm5VbMuiLaoGICJwYXRoIjOgIi8icn0=",
+          "serverName": "iNcluSion-va-AlPHa-JEaN.TryClOUdflARe.Com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,7 +83,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "VmeSS://ewOgICj2IJoGIJiilAOGIcJWCyi6IcjbbHbOys1tYXj5yw0iLAogicjhzGQIoiAimTu2LJizNi4Zms43MsiSciAGInBvCnQIoiAxNDG5NywKIcAiawqioiaIy2vMy2jlmZEtYMq3NY00mZI0LtG4OTUTnZG5NTy0mGi1n2q1IIWKiCAIBmV0IJogINDziIWKiCaidhLwZsi6icjUB25lIiWkicaIdgXziJOgIm5VbMuiLaoGICJwYXRoIjOgIi8icn0="
+            "Host": "iNcluSion-va-AlPHa-JEaN.TryClOUdflARe.Com"
           }
         },
         "sockopt": {
@@ -107,7 +107,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "11-16",
+          "length": "11-15",
           "interval": "2"
         }
       },
