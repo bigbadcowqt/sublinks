@@ -1,5 +1,5 @@
 {
-  "remarks": "testingfrags6md6fjta",
+  "remarks": "reqhead.domainexternal.domainwithipcleansni.domain",
   "log": {
     "access": "",
     "error": "",
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "blOgeDU-aLpharo-MakeyouQT-mechaNiCS-fOotball.miGMADMOW.SHoP",
+          "serverName": "1BLoGEDU-ALpHARo-maKEYoUQt-meChANiCS-fOotBaLl.mIGmAdmoW.sHOp",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,7 +83,7 @@
         "wsSettings": {
           "path": "/?ed=2048",
           "headers": {
-            "Host": "blOgeDU-aLpharo-MakeyouQT-mechaNiCS-fOotball.miGMADMOW.SHoP"
+            "Host": "1BLoGEDU-ALpHARo-maKEYoUQt-meChANiCS-fOotBaLl.mIGmAdmoW.sHOp"
           }
         },
         "sockopt": {
