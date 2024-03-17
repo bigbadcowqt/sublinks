@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "Edu.blOg-uNIVERSity-DaRalFNon-pHYSIc-ChIMist.MIGMadmow.sHoP",
+          "serverName": "blOgeDU-aLpharo-MakeyouQT-mechaNiCS-fOotball.miGMADMOW.SHoP",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,7 +83,7 @@
         "wsSettings": {
           "path": "/?ed=2048",
           "headers": {
-            "Host": "Edu.blOg-uNIVERSity-DaRalFNon-pHYSIc-ChIMist.MIGMadmow.sHoP"
+            "Host": "blOgeDU-aLpharo-MakeyouQT-mechaNiCS-fOotball.miGMADMOW.SHoP"
           }
         },
         "sockopt": {
